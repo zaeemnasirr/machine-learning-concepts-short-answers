@@ -1,0 +1,19 @@
+Assignment 3 Summary
+
+Part 1: Decision Tree
+Full dataset entropy = 0.999068
+Training entropy = 0.999097
+Best root feature = odor
+Accuracy = 1.000000
+Precision = 1.000000
+Recall = 1.000000
+F1 score = 1.000000
+
+Part 2: Simple Linear Regression
+Chosen feature = TV
+Mean of X = 147.947778
+Mean of Y = 15.201667
+Slope m = 0.055133
+Intercept b = 7.044916
+Manual MSE = 6.302019
+Sklearn MSE = 6.302019

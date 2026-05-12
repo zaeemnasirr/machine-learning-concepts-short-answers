@@ -1,0 +1,10 @@
+Bonus Part 2E: Multiple Linear Regression
+
+Manual beta values using normal equation:
+Intercept = 4.741548
+TV coefficient = 0.054067
+Radio coefficient = 0.103060
+Newspaper coefficient = 0.002408
+
+Manual MSE = 2.858380
+Sklearn MSE = 2.858380
